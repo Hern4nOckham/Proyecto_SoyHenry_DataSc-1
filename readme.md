@@ -150,6 +150,4 @@ Para consultar sobre los pasos del proceso acceder al siguiente link. [https://y
 
 ## *6. Autor*
 
-- **Hernán Pizarro**
-- Mail: hern4npizarro@gmail.com
-- Linkedin: [www.linkedin.com/in/hernán-pizarro-683679268](www.linkedin.com/in/hernán-pizarro-683679268)
+- **Hernán Pizarro**: hern4npizarro@gmail.com | [Linkedin](https://www.linkedin.com/in/hern%C3%A1n-pizarro-683679268/)
