@@ -33,7 +33,7 @@ Se debe crear un sistema de recomendación en base a las siguientes funciones:
 
 El proyecto se llevó a cabo en tres etapas:
 
-- 1° Etapa: se realizó la extración y transformación del datasets que brindo Henry.
+- 1° Etapa: se realizó la extración y transformación del dataset que brindo Henry.
 
 - 2° Etapa: se realizarón los análisis y gráficos de los datos.
 
