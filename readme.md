@@ -66,7 +66,7 @@ Usando los archivos .parquet se realizó un EDA resultando gráficos de barras, 
 Se desarrollaron las funciones PlayTimeGenre, UserForGenre, UsersRecommend, UsersNotRecommend, Sentiment_analysis y Recomendation_Game (ML).
 
 
-## *4. Datasets*
+## *4. Dataset*
 
 Fueron brindados por Henry tres archivos en formato .json y comprimido .gz:
 [Datasets](https://drive.google.com/drive/folders/1HqBG2-sUkz_R3h1dZU5F2uAzpRn7BSpj)
