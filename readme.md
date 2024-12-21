@@ -1,4 +1,4 @@
-#  **<p align="center"> Proyect N° 1 de Data Science</p>** 
+#  **<p align="center"> Proyecto N° 1 de Data Science</p>** 
 
 <img src="5_Imagenes\juegossteam.jpg" width="1010" height="300">
 
